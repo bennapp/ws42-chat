@@ -29,3 +29,5 @@ group :development do
 end
 
 gem 'jquery-rails'
+gem 'rails-backbone'
+gem 'marionette-rails'
